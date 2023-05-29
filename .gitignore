@@ -1,0 +1,5 @@
+/.vs
+*.user
+obj
+bin
+/Concord.WebPortal.SPA/package-lock.json
