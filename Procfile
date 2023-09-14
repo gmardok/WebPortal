@@ -1,1 +1,0 @@
-web: ./Concord.WebPortal.WebApi.exe
